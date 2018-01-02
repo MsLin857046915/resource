@@ -1,0 +1,4 @@
+http://www.jqhtml.com/   全面资源
+
+http://www.cnblogs.com/lhb25/p/loading-spinners-animated-with-css3.html   使用 CSS3 实现超炫的 Loading（加载）动画效果
+http://www.cnblogs.com/HDou/p/4775873.html   js分页
