@@ -1,5 +1,6 @@
-http://www.jqhtml.com/   È«Ãæ×ÊÔ´
+http://www.jqhtml.com/   å…¨é¢èµ„æº
 
-http://www.cnblogs.com/lhb25/p/loading-spinners-animated-with-css3.html   Ê¹ÓÃ CSS3 ÊµÏÖ³¬ìÅµÄ Loading£¨¼ÓÔØ£©¶¯»­Ğ§¹û
-http://www.cnblogs.com/HDou/p/4775873.html   js·ÖÒ³
-http://www.zhangxinxu.com/study/201210/css3-animate-flip-example.html Ö½ÅÆ·­Ãæ
+http://www.cnblogs.com/lhb25/p/loading-spinners-animated-with-css3.html   ä½¿ç”¨ CSS3 å®ç°è¶…ç‚«çš„ Loadingï¼ˆåŠ è½½ï¼‰åŠ¨ç”»æ•ˆæœ
+http://www.cnblogs.com/HDou/p/4775873.html   jsåˆ†é¡µ
+http://www.zhangxinxu.com/study/201210/css3-animate-flip-example.html çº¸ç‰Œç¿»é¢
+https://cdn.bootcss.com/vConsole/3.2.0/vconsole.min.js æ‰‹æœºé¡µé¢æ‰“å°æ•°æ®å°å·¥å…· ä½¿ç”¨æ–¹æ³• var vConsole = new VConsole();
