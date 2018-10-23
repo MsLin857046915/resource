@@ -5,3 +5,7 @@ http://www.cnblogs.com/HDou/p/4775873.html   js分页
 http://www.zhangxinxu.com/study/201210/css3-animate-flip-example.html 纸牌翻面
 https://cdn.bootcss.com/vConsole/3.2.0/vconsole.min.js 手机页面打印数据小工具 使用方法 var vConsole = new VConsole();
 https://www.swiper.com.cn/ 手机滑动插件swiper;
+
+
+软件
+https://www.sourcetreeapp.com/ git码云客户端
