@@ -12,3 +12,6 @@ https://www.sourcetreeapp.com/ git码云客户端
 https://www.apachefriends.org/zh_cn/index.html 本地服务器xampp
 https://www.foxmail.com/ 公司邮箱
 https://pc.qq.com/detail/13/detail_3313.html 8uftp远端服务器
+
+工具类网页
+https://tinypng.com/  压缩图片工具
