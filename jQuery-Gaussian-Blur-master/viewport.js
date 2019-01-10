@@ -47,16 +47,3 @@
 })(750, 750);
 
 
-//判断页面协议
-var protocol = window.location.protocol;
-var appUrl = '//localhost:23132';
-if (protocol == 'https:') {
-    appUrl = '//myapp.ksearch.cn:23132';
-}
-
-/*配置文件选择加载cdn上的js还是域名下的js*/
-if (location.hostname == "t.mayixiaoka.com" || location.hostname == "t3.mayixiaoka.com") {
-    var config = "//"+location.hostname.split(".")[0]+"cdn.mayixiaoka.com/v3js/";
-} else {
-    var config = "//cdn.mayixiaoka.com/v3js/";
-}
